@@ -1,0 +1,12 @@
+gameid=g1003 datetime=20170301132100 playtime=120 score=4
+user=1222 level=3 exp=30 money=300
+user=1232 level=4 exp=40 money=400
+user=1242 level=5 exp=50 money=500
+kill=1222 death=1232 by=sword
+kill=1222 death=1242 by=gun
+gameid=g1004 datetime=20170301142104 playtime=220 score=24
+user=1222 level=4 exp=30 money=300
+user=1232 level=5 exp=40 money=400
+user=1242 level=6 exp=50 money=500
+kill=1242 death=1222 by=sword
+kill=1242 death=1232 by=gun
